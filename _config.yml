@@ -3,7 +3,7 @@ booktitle: Proceedings of The Second AAAI Bridge Program on AI for Medicine and 
 shortname: AIMedHealth
 year: '2026'
 volume: '317'
-start: &1 2026-01-20
+start: 2026-01-20
 end: 2026-01-21
 published: 2026-02-27
 layout: proceedings
@@ -87,7 +87,7 @@ conference:
   url: https://sites.google.com/view/aimedhealth-aaai/home
   location: Singapore Expo, Singapore
   dates:
-  - *1
+  - 2026-01-20
   - 2026-01-21
 analytics:
   google:
